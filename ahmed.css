@@ -1,0 +1,26 @@
+.red {
+    color: rgb(66, 69, 0);
+    text-shadow: 2px 2px #fff;
+   
+}
+
+
+.asd {
+
+    color: #fff;
+    text-align: center;
+}
+
+
+
+
+.link {
+    color: #73005c;
+    background: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    box-shadow: #fff 0px 0px 10px;
+}
